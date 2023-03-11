@@ -1,6 +1,6 @@
-# 2 Лабораторная работа 
+# 3 Лабораторная работа 
 ## Светлаковой Ульяны 2-ПМИ
 
 ----------
 
-![Хачю автомат...](https://kittycoin.cat/images/coin.gif)
+![...](https://kittycoin.cat/images/coin.gif)
