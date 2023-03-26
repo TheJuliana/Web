@@ -7,6 +7,7 @@ services:
     volumes:
       - ./code:/code
       - ./site.conf:/etc/nginx/conf.d/site.conf
+      - ./php.ini:/usr/local/etc/php/php.ini
     links:
       - php
   php:

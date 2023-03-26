@@ -59,7 +59,8 @@ iv. После того, как пользователь нажал кнопку
             </table>
         </form>
     </div>
-    <div id="table">
+    <!--FROM LAB3 -->
+    <!--<div id="table">
         <table>
             <caption>TABLE</caption>
             <thead>
@@ -69,7 +70,7 @@ iv. После того, как пользователь нажал кнопку
             </thead>
 
             <?php
-                $dir = opendir("Categories");
+/*                $dir = opendir("Categories");
                 while ($file = readdir($dir)) {
                     if (is_dir("Categories/".$file) && $file != "." && $file !="..") {
                        $files = scandir("Categories/".$file);
@@ -87,9 +88,9 @@ iv. После того, как пользователь нажал кнопку
                        }
                     }
                 }
-            ?>
+            */?>
 
         </table>
-    </div>
+    </div>-->
 </body>
 </html>
